@@ -12,6 +12,7 @@
 
 - ## 간단미리보기(SimplePreview) ##
 편집 중인 폰트의 글자들을 미리보기하는 플러그인으로, 세로쓰기 및 가로쓰기 모드를 지원(Lets you preview texts which is in the font you are editing.)
+![SimplePreview01](./_readme/SP26_00.png)
 ![SimplePreview01](./_readme/SP26_01.png)
 ![SimplePreview02](./_readme/SP26_02.png)
 ![SimplePreview03](./_readme/SP26_03.png)
