@@ -1,5 +1,5 @@
 # 라인갭 스크립트(Linegap's Scripts for Glyphs App)
-- **필요사항1(requirements)**
+- **필요사항(requirements)**
 1. *창 > 플러그인 관리자 > 모듈* 에서 바닐라(Vanilla) 모듈 설치 필요(*vanilla* module that can be installed on *Windows > Plugin Manager > Module > Vanilla.*)
 2. 등록(Registration) : 정식 등록은 <a href="http://www.linegap.com" target="_blank">라인갭 홈페이지</a>의 연락처를 통해 안내 받으실 수 있습니다.)(You need a paid registration by contacting me through the <a href="http://www.linegap.com" target="_blank">Linegap site</a>.)
 
